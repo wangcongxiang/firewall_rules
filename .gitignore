@@ -1,0 +1,7 @@
+test/*
+.vscode/
+*.pyc
+*/__pycache__
+.DS_Store
+conf/*
+sample/*
